@@ -1,10 +1,11 @@
 # 代理补充列表
 
 # 域名后缀匹配
-DOMAIN-SUFFIX,qichiyu.com
+DOMAIN-SUFFIX,thehiddenbay.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
+
 
 # IP段匹配
 IP-CIDR,142.171.133.131/32,no-resolve
@@ -29,4 +30,4 @@ IP-CIDR,1.0.0.1/32,no-resolve
 IP-CIDR,185.222.222.222/32,no-resolve
 IP-CIDR,208.67.222.222/32,no-resolve
 IP-CIDR,208.67.220.220/32,no-resolve
-DOMAIN-SUFFIX,thehiddenbay.com
+
