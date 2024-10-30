@@ -4,6 +4,7 @@
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,thehiddenbay
+DOMAIN-KEYWORD,linshiyouxiang
 
 
 # IP段匹配
@@ -30,5 +31,5 @@ IP-CIDR,185.222.222.222/32,no-resolve
 IP-CIDR,208.67.222.222/32,no-resolve
 IP-CIDR,208.67.220.220/32,no-resolve
 
-DOMAIN-SUFFIX,www.linshiyouxiang.net
-DOMAIN-SUFFIX,nic.us.kg
+DOMAIN,nic.us.kg
+
