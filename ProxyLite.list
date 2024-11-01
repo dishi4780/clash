@@ -5,6 +5,7 @@
 # 域名关键字匹配
 DOMAIN-KEYWORD,thehiddenbay
 DOMAIN-KEYWORD,linshiyouxiang
+DOMAIN-KEYWORD,statically
 
 
 # IP段匹配
