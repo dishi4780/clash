@@ -9,5 +9,7 @@ DOMAIN-SUFFIX,discovery.roonlabs.net
 DOMAIN-SUFFIX,discover.roonlabs.net
 DOMAIN-SUFFIX,messaging.roonlabs.net
 DOMAIN-SUFFIX,geoip.roonlabs.net
+DOMAIN-SUFFIX,store.roonlabs.com
+DOMAIN-SUFFIX,static-pr.roonlabs.net
 DOMAIN-SUFFIX,roon.app
 
