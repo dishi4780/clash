@@ -9,9 +9,9 @@ DOMAIN-SUFFIX,discovery.roonlabs.net
 DOMAIN-SUFFIX,discover.roonlabs.net
 DOMAIN-SUFFIX,messaging.roonlabs.net
 DOMAIN-SUFFIX,geoip.roonlabs.net
-DOMAIN-SUFFIX,graph.facebook.com
+
 DOMAIN-KEYWORD,roon
-DOMAIN-SUFFIX,uc.cmd
+
 DOMAIN-SUFFIX,vipgslb.hpplay.cn
 DOMAIN-SUFFIX,rps.hpplay.cn
 DOMAIN-SUFFIX,rp.hpplay.cn
